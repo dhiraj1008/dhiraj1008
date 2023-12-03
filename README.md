@@ -1,12 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.i)
+![banner](https://github.com/dhiraj1008/dhiraj1008/assets/94028619/5c4242d2-2253-4cc8-abd3-52103f9e0ac6)
+
 <h1 align="center">Hi 👋, I'm Dhiraj Alate</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-cartoon">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj1008&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj1008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj1008" alt="dhiraj1008" /></a> </p>![banner](https://github.com/dhiraj1008/dhiraj1008/assets/94028619/8a2949f2-4702-4935-9979-379ead074339)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj1008" alt="dhiraj1008" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhirajalate" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajalate?logo=twitter&style=for-the-badge" alt="dhirajalate" /></a> </p>
 
@@ -27,7 +27,7 @@
 <a href="https://twitter.com/dhirajalate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhirajalate" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhirajalate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajalate" height="30" width="40" /></a>
 <a href="https://instagram.com/dhiraj_alate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiraj_alate" height="30" width="40" /></a>
-<a href="https://medium.com/dhiraj alate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhiraj alate" height="30" width="40" /></a>
+<a href="https://medium.com/@dhirajalate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhiraj alate" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dhiraj_alate99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhiraj_alate99" height="30" width="40" /></a>
 </p>
 
