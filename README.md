@@ -1,5 +1,4 @@
 ![ezgif com-resize(1)](https://github.com/dhiraj1008/dhiraj1008/assets/94028619/cdb1c02b-2398-4c04-aa4c-471ac106deb2)
-
 <h1 align="center">Hi 👋, I'm Dhiraj Alate</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
