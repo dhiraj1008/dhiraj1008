@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj1008&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj1008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj1008" alt="dhiraj1008" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhirajalate" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajalate?logo=twitter&style=for-the-badge" alt="dhirajalate" /></a> </p>
 
@@ -19,7 +18,7 @@
 
 - 📫 How to reach me **dhirajalate92@gmail.com**
 
-- ⚡ Fun fact **I think im data nerd :).**
+- ⚡ Fun fact **I would love to meet [business leader or mentor] and ask them about… :).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
