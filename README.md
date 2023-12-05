@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dhirajalate92@gmail.com**
 
-- ⚡ Fun fact **I would love to meet [business leader or mentor] and ask them about… :).**
+- ⚡ Fun fact **I would love to meet [business leader or mentor] and ask them about what motivates them to start their business… :).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
